@@ -7,6 +7,7 @@
 
 #include <stdio.h>
 
+// fun to calculate prime number 
 int funTocheck(int num){
 
 
