@@ -1,0 +1,123 @@
+
+*******************
+choose one of the following option:
+Add New student: 1
+Delete one student: 2
+Delete ALL students: 3
+View ALL students: 4
+exit: 0
+1
+
+Enter her(has) ID
+33
+Enter her(has) Name
+Bassam
+Enter her(has) Height
+195
+
+*******************
+choose one of the following option:
+Add New student: 1
+Delete one student: 2
+Delete ALL students: 3
+View ALL students: 4
+exit: 0
+1
+
+Enter her(has) ID
+44
+Enter her(has) Name
+Nada
+Enter her(has) Height
+175
+
+*******************
+choose one of the following option:
+Add New student: 1
+Delete one student: 2
+Delete ALL students: 3
+View ALL students: 4
+exit: 0
+4
+
+Student Number:1
+Student ID:33
+Student Name:Bassam
+Student Height:195.000000
+
+
+Student Number:2
+Student ID:44
+Student Name:Nada
+Student Height:175.000000
+
+
+*******************
+choose one of the following option:
+Add New student: 1
+Delete one student: 2
+Delete ALL students: 3
+View ALL students: 4
+exit: 0
+2
+
+Enter ID you want to deleted33
+
+*******************
+choose one of the following option:
+Add New student: 1
+Delete one student: 2
+Delete ALL students: 3
+View ALL students: 4
+exit: 0
+4
+
+Student Number:1
+Student ID:44
+Student Name:Nada
+Student Height:175.000000
+
+
+*******************
+choose one of the following option:
+Add New student: 1
+Delete one student: 2
+Delete ALL students: 3
+View ALL students: 4
+exit: 0
+3
+
+*******************
+choose one of the following option:
+Add New student: 1
+Delete one student: 2
+Delete ALL students: 3
+View ALL students: 4
+exit: 0
+4
+!!!!!EMPTY!!!!!
+*******************
+choose one of the following option:
+Add New student: 1
+Delete one student: 2
+Delete ALL students: 3
+View ALL students: 4
+exit: 0
+2
+!!!!!!!! Empty!!!!
+*******************
+choose one of the following option:
+Add New student: 1
+Delete one student: 2
+Delete ALL students: 3
+View ALL students: 4
+exit: 0
+3
+!!!!!EMPTY!!!!!
+*******************
+choose one of the following option:
+Add New student: 1
+Delete one student: 2
+Delete ALL students: 3
+View ALL students: 4
+exit: 0

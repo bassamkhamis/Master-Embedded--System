@@ -1,0 +1,70 @@
+
+*******************
+choose one of the following option:
+Add New student: 1
+Delete ALL students: 3
+View ALL students: 4
+get Nth node: 5
+exit: 0
+1
+
+Enter her(has) ID
+2
+Enter her(has) Name
+Bassam
+Enter her(has) Height
+195
+
+*******************
+choose one of the following option:
+Add New student: 1
+Delete ALL students: 3
+View ALL students: 4
+get Nth node: 5
+exit: 0
+1
+
+Enter her(has) ID
+3
+Enter her(has) Name
+omar
+Enter her(has) Height
+180
+
+*******************
+choose one of the following option:
+Add New student: 1
+Delete ALL students: 3
+View ALL students: 4
+get Nth node: 5
+exit: 0
+5
+Enter Nth node you want get it, (ex 1 or 2 ....) 
+1
+Student ID:2
+Student Name:Bassam
+Student Height:195.000000
+
+
+*******************
+choose one of the following option:
+Add New student: 1
+Delete ALL students: 3
+View ALL students: 4
+get Nth node: 5
+exit: 0
+5
+Enter Nth node you want get it, (ex 1 or 2 ....) 
+2
+Student ID:3
+Student Name:omar
+Student Height:180.000000
+
+
+*******************
+choose one of the following option:
+Add New student: 1
+Delete ALL students: 3
+View ALL students: 4
+get Nth node: 5
+exit: 0

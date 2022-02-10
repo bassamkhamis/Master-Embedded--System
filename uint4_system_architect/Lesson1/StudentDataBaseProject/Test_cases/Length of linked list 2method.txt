@@ -1,0 +1,89 @@
+
+*******************
+choose one of the following option:
+Add New student: 1
+Delete ALL students: 3
+View ALL students: 4
+get Nth node: 5
+get length of node by Iterative method: 6
+get length of node by Recursion method: 7
+exit: 0
+1
+
+Enter her(has) ID
+3
+Enter her(has) Name
+bassam
+Enter her(has) Height
+196
+
+*******************
+choose one of the following option:
+Add New student: 1
+Delete ALL students: 3
+View ALL students: 4
+get Nth node: 5
+get length of node by Iterative method: 6
+get length of node by Recursion method: 7
+exit: 0
+1
+
+Enter her(has) ID
+5
+Enter her(has) Name
+khamis
+Enter her(has) Height
+180
+
+*******************
+choose one of the following option:
+Add New student: 1
+Delete ALL students: 3
+View ALL students: 4
+get Nth node: 5
+get length of node by Iterative method: 6
+get length of node by Recursion method: 7
+exit: 0
+1
+
+Enter her(has) ID
+8
+Enter her(has) Name
+mansour
+Enter her(has) Height
+177
+
+*******************
+choose one of the following option:
+Add New student: 1
+Delete ALL students: 3
+View ALL students: 4
+get Nth node: 5
+get length of node by Iterative method: 6
+get length of node by Recursion method: 7
+exit: 0
+6
+linked list length by Iterative method = 3
+
+*******************
+choose one of the following option:
+Add New student: 1
+Delete ALL students: 3
+View ALL students: 4
+get Nth node: 5
+get length of node by Iterative method: 6
+get length of node by Recursion method: 7
+exit: 0
+7
+linked list length by Recursion method = 3
+
+*******************
+choose one of the following option:
+Add New student: 1
+Delete ALL students: 3
+View ALL students: 4
+get Nth node: 5
+get length of node by Iterative method: 6
+get length of node by Recursion method: 7
+exit: 0
+0
