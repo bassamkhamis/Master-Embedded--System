@@ -14,6 +14,7 @@ enum{
 	US_busy
 }US_state_ID;
 
+// API's
 void US_init();
 STATE(us_busy);
 void (*US_state)();
