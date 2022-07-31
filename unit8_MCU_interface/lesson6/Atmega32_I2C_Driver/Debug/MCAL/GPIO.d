@@ -1,0 +1,3 @@
+MCAL/GPIO.o MCAL/GPIO.o: ../MCAL/GPIO.c ../MCAL/GPIO.h
+
+../MCAL/GPIO.h:
