@@ -1,0 +1,8 @@
+HAL/MAX7221.o HAL/MAX7221.o: ../HAL/MAX7221.c ../HAL/../MCAL/SPI.h \
+  ../HAL/../MCAL/../STD_TYPES.h ../HAL/MAX7221.h
+
+../HAL/../MCAL/SPI.h:
+
+../HAL/../MCAL/../STD_TYPES.h:
+
+../HAL/MAX7221.h:
