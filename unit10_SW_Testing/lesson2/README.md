@@ -13,7 +13,7 @@
 
 ![](https://github.com/bassamkhamis/Master-Embedded--System/blob/main/unit10_SW_Testing/lesson2/Sprint4.png)
 
-## 4- Release: after some sprint(2-4) we can release first product 
+## 4- Release: after some sprint(2-4 sprints) we can release first product 
 ![](https://github.com/bassamkhamis/Master-Embedded--System/blob/main/unit10_SW_Testing/lesson2/Releases.png)
 
 ## 5- Reports: each sprint will be generate report specific to it to show how can the qulity of this sprint
