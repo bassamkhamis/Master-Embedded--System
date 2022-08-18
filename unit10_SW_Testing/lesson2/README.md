@@ -1,7 +1,7 @@
 # Scrum framewark based on Agile princible 
 ## 1- EPICs: are feature umbrella, each EPIC contain row features the customer need it 
-           and boards team work on it in meeting called planning meeting and assign
-           time to start and fnish
+          ## and boards team work on it in meeting called planning meeting and assign
+          ## time to start and fnish
 
 ![](https://github.com/bassamkhamis/Master-Embedded--System/blob/main/unit10_SW_Testing/lesson2/EPIC_roadmap.png)
 
