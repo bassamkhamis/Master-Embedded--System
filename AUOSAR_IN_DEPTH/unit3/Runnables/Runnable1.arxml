@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AUTOSAR xmlns="http://autosar.org/schema/r4.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://autosar.org/schema/r4.0 file:///E:/Learn_in_depth/uint%20autosar/Altova/AUOSAR/schema/AUTOSAR_00046.xsd">
+	<!--Learn-In-Depth(Bassam-Khamis),Internal behavior_LAB1-->
+	<AR-PACKAGES>
+		<AR-PACKAGE>
+			<SHORT-NAME>Runnable_behavior</SHORT-NAME>
+			<ELEMENTS>
+				<!--define interface SCI -->
+				<SENDER-RECEIVER-INTERFACE>
+					<SHORT-NAME>SR_IF_internal_Behavior</SHORT-NAME>
+					<DATA-ELEMENTS>
+						<VARIABLE-DATA-PROTOTYPE>
+							<SHORT-NAME>CDM</SHORT-NAME>
+							<TYPE-TREF DEST="IMPLEMENTATION-DATA-TYPE">AUTOSAR_PlatformTypes/ImplementationDataTypes/uint32</TYPE-TREF>
+						</VARIABLE-DATA-PROTOTYPE>
+					</DATA-ELEMENTS>
+				</SENDER-RECEIVER-INTERFACE>
+				<APPLICATION-SW-COMPONENT-TYPE>
+					<SHORT-NAME>ThrottleControl_SWC</SHORT-NAME>
+					<PORTS>
+						<P-PORT-PROTOTYPE>
+							<SHORT-NAME>Pp_SR_ThrottleControl</SHORT-NAME>
+							<PROVIDED-INTERFACE-TREF DEST="SENDER-RECEIVER-INTERFACE">/Runnable_behavior/SR_IF_internal_Behavior</PROVIDED-INTERFACE-TREF>
+						</P-PORT-PROTOTYPE>
+					</PORTS>
+					<INTERNAL-BEHAVIORS>
+						<SWC-INTERNAL-BEHAVIOR>
+							<SHORT-NAME>ThrottleControl_Behavior</SHORT-NAME>
+							<RUNNABLES>
+								<RUNNABLE-ENTITY>
+									<SHORT-NAME>SET_CMD_Runnable</SHORT-NAME>
+									<MINIMUM-START-INTERVAL>0.0</MINIMUM-START-INTERVAL>
+									<CAN-BE-INVOKED-CONCURRENTLY>false</CAN-BE-INVOKED-CONCURRENTLY>
+									<DATA-WRITE-ACCESSS>
+										<VARIABLE-ACCESS>
+											<SHORT-NAME>Data_CMD</SHORT-NAME>
+											<ACCESSED-VARIABLE>
+												<AUTOSAR-VARIABLE-IREF>
+													<PORT-PROTOTYPE-REF DEST="P-PORT-PROTOTYPE">/ThrottleControl_SWC/Pp_SR_ThrottleControl</PORT-PROTOTYPE-REF>
+													<TARGET-DATA-PROTOTYPE-REF DEST="VARIABLE-DATA-PROTOTYPE">/Runnable_behavior/SR_IF_internal_Behavior/CDM</TARGET-DATA-PROTOTYPE-REF>
+												</AUTOSAR-VARIABLE-IREF>
+											</ACCESSED-VARIABLE>
+										</VARIABLE-ACCESS>
+									</DATA-WRITE-ACCESSS>
+									<SYMBOL>Set_CMD</SYMBOL>
+								</RUNNABLE-ENTITY>
+							</RUNNABLES>
+						</SWC-INTERNAL-BEHAVIOR>
+					</INTERNAL-BEHAVIORS>
+				</APPLICATION-SW-COMPONENT-TYPE>
+			</ELEMENTS>
+		</AR-PACKAGE>
+	</AR-PACKAGES>
+</AUTOSAR>
